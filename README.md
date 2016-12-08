@@ -1,6 +1,6 @@
 # Kitura AngularJS Sample
 
-![https://github.com/IBM-Swift/Kitura-AngularJS-Sample/raw/master/docs/timestamps.png](Timestamps)
+![https://github.com/IBM-Swift/Kitura-AngularJS-Sample/blob/master/docs/timestamps.png](Timestamps)
 
 ## Summary
 
