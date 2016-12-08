@@ -1,4 +1,4 @@
 applications:
-- name: Kitura-AngularJS
+- name: Kitura-AngularJS-Sample
   memory: 512M
   instances: 1

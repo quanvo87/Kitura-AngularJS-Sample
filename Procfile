@@ -1,1 +1,1 @@
-web: Kitura-AngularJS1
+web: Kitura-AngularJS-Sample
