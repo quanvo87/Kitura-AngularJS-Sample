@@ -1,0 +1,18 @@
+<div class="col-xs-4" >
+    <div class="padding19 textCenter">
+        <button class="btn btn-primary" ng-click="postTimestamp()">Set Timestamp</button>
+        <button class="btn btn-primary" ng-click="reloadTimestamps()">Reload Timestamps</button>
+        <button class="btn btn-primary" ng-click="clearTimestamps()">Clear Timestamps</button>
+    </div>
+    <div ng-show="items.length == 0">
+        <h3 class="textCenter">No timestamps to show</h3>
+    </div>
+    <div ng-show="items.length > 0">
+        <h3 class="textCenter">Timestamps</h3>
+        <div class="addBorder">
+            <ul class="list-group">
+                <li class="list-group-item" ng-repeat="item in items track by $index">{{item}}</li>
+            </ul>
+        </div>
+    </div>
+</div>
