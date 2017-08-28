@@ -1,5 +1,7 @@
 # Kitura AngularJS Sample
 
+🚫 This project is no longer maintained.
+
 ![Timestamp Screenshot](https://github.com/IBM-Swift/Kitura-AngularJS-Sample/raw/master/docs/timestamps.png)
 
 ## Summary
